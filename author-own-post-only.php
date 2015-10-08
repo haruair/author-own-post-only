@@ -2,7 +2,7 @@
 /*
 Plugin Name: Author Own Post Only
 Plugin URI: http://wordpress.org/plugins/author-own-post-only/
-Description: This is a simple plugin for posts. User can see own post only.
+Description: Users can see own posts only.
 Author: haruair
 Version: 0.0.1
 Author URI: http://haruair.com/
